@@ -21,7 +21,7 @@ public void setup() {
 	  System.out.println("Addition of "+a1+" and "+a2+" is : "+a3);
 	  Assert.assertEquals(20, a3);
   }
-  @Test(priority = 1, dependsOnMethods ="add")
+  @Test(priority = 1, groups ="Snaity")
   public void sub() {
 	  int s1=50, s2=30;
 	  System.out.println("Substraction of "+s1+" and "+s2+" is : "+s1+s2);
