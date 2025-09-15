@@ -41,7 +41,7 @@ Gopal@06071985
 Repository Name: Hari_Automation_Repo
 Repository url: https://github.com/rharigopal-testing/Hari_Automation_Repo
 https: https://github.com/rharigopal-testing/Hari_Automation_Repo.git
-ss: git@github.com:rharigopal-testing/Hari_Automation_Repo.git
+ss: ...
 Token: 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
 
 git init
