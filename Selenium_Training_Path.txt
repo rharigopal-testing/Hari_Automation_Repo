@@ -1,0 +1,76 @@
+Selenium with Java for UI
+	Java with Maven
+		Basic Oops concepts
+		collections
+		Stream
+		Thread programming
+		Design patterns
+		Algos
+		Programs[maths+ program trics]
+	selenium with page object model 
+	Extent/allure
+	Cucumber
+	
+RestAssred/Jersy for API
+
+
+
+1.Create project with maven by using reference from copilot
+[github-->Repo->base code push->create branch->checkout this branch start updating]-->source tree
+2.Start Create pages for your own project
+3.Start writing tests with bdd 
+4.Maven profile creaion [ how to call specific profile]
+5.passing paramters from maven
+input->maven->testng->code
+6.Testng test execution dynamically without updatin testng.xml
+7.Test data dynamic from out side -->prefer json
+8.Insert your results into Database[Mysql]
+9.Postman, practical use cases 
+9.Rest Api -> structure validaion , data validation using 
+
+
+---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX
+
+https://github.com/signup?source=login
+https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdashboard
+email: rajampeta.hari@gmail.com
+UN: rharigopal-testing
+Gopal@06071985
+
+
+Repository Name: Hari_Automation_Repo
+Repository url: https://github.com/rharigopal-testing/Hari_Automation_Repo
+https: https://github.com/rharigopal-testing/Hari_Automation_Repo.git
+ss: git@github.com:rharigopal-testing/Hari_Automation_Repo.git
+Token: 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
+
+git init
+git config --global user.email "rajampeta.hari@gmail.com"
+git config --global user.name "rharigopal-testing"
+git status
+git add -Al OR git add filename OR git add *.java OR git add foldername
+git status
+git commit -m "Initial commit"
+git status
+git remote add orgin "https://github.com/rharigopal-testing/Hari_Automation_Repo.git"
+git push origin master
+
+
+
+
+---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX
+
+SourceTree:
+Version 3.4.25
+
+
+---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX
+https://home.atlassian.com/
+
+Bitbucket: https://bitbucket.org/account/workspaces
+Workspace name: rharigopal-testing
+https://bitbucket.org/rharigopal-testing/workspace/overview/
+
+EMAIL: rajampeta.hari@gmail.com
+UN: rharigopal-bitbucket
+Gopal@06071985

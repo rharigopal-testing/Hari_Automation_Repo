@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Regression(failed)">
     <classes>
       <class name="SeleniumTestNGDemo.Learning.SampleTest">
         <methods>
@@ -12,5 +12,17 @@
         </methods>
       </class> <!-- SeleniumTestNGDemo.Learning.SampleTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Regression(failed) -->
+  <test thread-count="5" name="Sanity(failed)">
+    <classes>
+      <class name="SeleniumTestNGDemo.Learning.SampleTest2">
+        <methods>
+          <include name="add"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="sub"/>
+        </methods>
+      </class> <!-- SeleniumTestNGDemo.Learning.SampleTest2 -->
+    </classes>
+  </test> <!-- Sanity(failed) -->
 </suite> <!-- Failed suite [Suite] -->
