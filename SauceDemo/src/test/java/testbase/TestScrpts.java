@@ -15,6 +15,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -36,7 +37,7 @@ public class TestScrpts {
 
 	@Parameters({"url"})
 	@Test(priority=1) 
-	public void testLaunchUrl(String url) {
+	public void testLaunchUrl(@Optional("https://www.saucedemo.com/")String url) {
 		driver.get(url);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
