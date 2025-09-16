@@ -7,10 +7,10 @@
     <classes>
       <class name="testbase.TestScrpts">
         <methods>
-          <include name="testLaunchUrl"/>
           <include name="setup"/>
+          <include name="testLaunchUrl"/>
           <include name="tearDown"/>
-          <include name="testLogin"/>
+          <include name="testLogin" invocation-numbers="0"/>
         </methods>
       </class> <!-- testbase.TestScrpts -->
     </classes>
