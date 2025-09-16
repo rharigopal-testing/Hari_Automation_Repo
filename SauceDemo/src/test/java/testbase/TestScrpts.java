@@ -26,7 +26,7 @@ public class TestScrpts {
 	WebDriver driver;
 	@Parameters({"browser"})
 	@BeforeClass
-	public void setup(String br) {
+	public void setup(@Optional("chrome")String br) {
 		switch (br.toLowerCase()) {
 		case "chrome": driver = new ChromeDriver();break;
 		case "edge": driver = new EdgeDriver(); break;

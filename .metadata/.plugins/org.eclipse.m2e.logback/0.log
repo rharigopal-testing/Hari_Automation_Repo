@@ -560,3 +560,7 @@
 2025-09-16 22:21:49,131 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
 2025-09-16 22:27:08,999 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
 2025-09-16 22:27:09,001 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
+2025-09-16 23:58:41,065 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
+2025-09-16 23:58:41,069 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
+2025-09-16 23:58:49,245 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
+2025-09-16 23:58:49,247 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
