@@ -569,3 +569,4 @@
 2025-09-17 00:04:23,626 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating TestScrpts from maven configuration
 2025-09-17 23:28:39,515 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
 2025-09-17 23:28:39,520 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
+2025-10-18 10:24:16,679 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
