@@ -1,9 +1,0 @@
-package SeleniumTestNGDemo.Learning;
-
-import org.testng.annotations.Test;
-
-public class SampleTest {
-  @Test
-  public void f() {
-  }
-}

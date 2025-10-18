@@ -564,3 +564,8 @@
 2025-09-16 23:58:41,069 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
 2025-09-16 23:58:49,245 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
 2025-09-16 23:58:49,247 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
+2025-09-17 00:04:11,365 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
+2025-09-17 00:04:11,368 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
+2025-09-17 00:04:23,626 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating TestScrpts from maven configuration
+2025-09-17 23:28:39,515 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\main\resources
+2025-09-17 23:28:39,520 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Hari_Automation_Repo\SauceDemo\src\test\resources
